@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_LOG_LEVEL"
+            value="verbose" />
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="No Filters" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default"
+            comment=""
+            default="true"
+            id="fd3d70f9-4ea3-4310-acbb-8da8a4093c00">
+            <change
+                afterPath="$PROJECT_DIR$/.idea/misc.xml"
+                beforePath="$PROJECT_DIR$/.idea/misc.xml" />
+            <change
+                afterPath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/Candy.java"
+                beforePath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/Candy.java" />
+            <change
+                afterPath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/DetailActivity.java"
+                beforePath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/DetailActivity.java" />
+            <change
+                afterPath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/MainActivity.java"
+                beforePath="$PROJECT_DIR$/app/src/main/java/com/example/zamzam/myapplication/MainActivity.java" />
+        </list>
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="TRACKING_ENABLED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsData">
+        <projectState path="$PROJECT_DIR$">
+            <ProjectState />
+        </projectState>
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorM

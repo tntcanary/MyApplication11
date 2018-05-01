@@ -1,0 +1,7 @@
+<application>
+    <component name="ActionsCollector">
+        <counts>
+            <entry action="$Delete" count="4" />
+            <entry action="$Undo" count="30" />
+            <entry action="Android Lint Quick Fixes" count="1"
+            /
